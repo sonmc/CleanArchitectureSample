@@ -1,0 +1,12 @@
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/bin/Debug/net7.0/CleanArchitectureSample.SharedKernel.deps.json
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/bin/Debug/net7.0/CleanArchitectureSample.SharedKernel.dll
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/bin/Debug/net7.0/CleanArchitectureSample.SharedKernel.pdb
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/obj/Debug/net7.0/CleanArchitectureSample.SharedKernel.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/obj/Debug/net7.0/CleanArchitectureSample.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/obj/Debug/net7.0/CleanArchitectureSample.SharedKernel.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/obj/Debug/net7.0/CleanArchitectureSample.SharedKernel.AssemblyInfo.cs
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/obj/Debug/net7.0/CleanArchitectureSample.SharedKernel.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/obj/Debug/net7.0/CleanArchitectureSample.SharedKernel.dll
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/obj/Debug/net7.0/refint/CleanArchitectureSample.SharedKernel.dll
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/obj/Debug/net7.0/CleanArchitectureSample.SharedKernel.pdb
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/obj/Debug/net7.0/ref/CleanArchitectureSample.SharedKernel.dll

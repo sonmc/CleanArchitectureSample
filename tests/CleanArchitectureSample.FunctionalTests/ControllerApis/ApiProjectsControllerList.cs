@@ -1,6 +1,6 @@
 ﻿using Ardalis.HttpClientTestExtensions;
 using CleanArchitectureSample.Web;
-using CleanArchitectureSample.Web.ApiModels;
+using CleanArchitectureSample.Web.Dtos;
 using Xunit;
 
 namespace CleanArchitectureSample.FunctionalTests.ControllerApis;

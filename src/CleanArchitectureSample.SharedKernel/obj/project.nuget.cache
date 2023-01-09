@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRkDqBqeAQH4Wmg3OCsDayhzNup/7evU+nfQ7WCf3Lef4P0B8xfhvL/zXL21HSfTFKBWMPNU02DYTh5kEtd0yg==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.SharedKernel/CleanArchitectureSample.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/ardalis.specification/6.1.0/ardalis.specification.6.1.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+LxzmkIOcmY6j/zie/dZaaRv2Vq68fnV1+44VMg/XsGboiAM8FfD0/x+LgLPr6DVKnKjkHO/VtksYAFe3brwA==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/CleanArchitectureSample.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/ardalis.guardclauses/4.0.1/ardalis.guardclauses.4.0.1.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/ardalis.result/4.1.0/ardalis.result.4.1.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/ardalis.smartenum/2.1.0/ardalis.smartenum.2.1.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/ardalis.specification/6.1.0/ardalis.specification.6.1.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/autofac/6.5.0/autofac.6.5.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/jetbrains.annotations/2021.3.0/jetbrains.annotations.2021.3.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

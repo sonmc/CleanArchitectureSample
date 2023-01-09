@@ -1,0 +1,7 @@
+{
+  "CleanArchitectureSample.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/macbook\/Desktop\/ProjectStudy\/DotnetCore\/Architecture\/CleanArchitectureSample\/src\/CleanArchitectureSample.Core",
+  "CleanArchitectureSample.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/macbook\/Desktop\/ProjectStudy\/DotnetCore\/Architecture\/CleanArchitectureSample\/src\/CleanArchitectureSample.Infrastructure",
+  "CleanArchitectureSample.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/macbook\/Desktop\/ProjectStudy\/DotnetCore\/Architecture\/CleanArchitectureSample\/src\/CleanArchitectureSample.SharedKernel",
+  "CleanArchitectureSample.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/macbook\/Desktop\/ProjectStudy\/DotnetCore\/Architecture\/CleanArchitectureSample\/tests\/CleanArchitectureSample.UnitTests",
+  "CleanArchitectureSample.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/macbook\/Desktop\/ProjectStudy\/DotnetCore\/Architecture\/CleanArchitectureSample\/src\/CleanArchitectureSample.Web"
+}

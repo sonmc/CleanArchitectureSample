@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/bin/Debug/net7.0/CleanArchitectureSample.Core.deps.json
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/bin/Debug/net7.0/CleanArchitectureSample.Core.dll
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/bin/Debug/net7.0/CleanArchitectureSample.Core.pdb
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/bin/Debug/net7.0/CleanArchitectureSample.SharedKernel.dll
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/bin/Debug/net7.0/CleanArchitectureSample.SharedKernel.pdb
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/CleanArchitectureSample.Core.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/CleanArchitectureSample.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/CleanArchitectureSample.Core.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/CleanArchitectureSample.Core.AssemblyInfo.cs
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/CleanArchitectureSample.Core.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/CleanArchitectureSample.Core.csproj.CopyComplete
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/CleanArchitectureSample.Core.dll
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/refint/CleanArchitectureSample.Core.dll
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/CleanArchitectureSample.Core.pdb
+/Users/macbook/Desktop/ProjectStudy/DotnetCore/Architecture/CleanArchitectureSample/src/CleanArchitectureSample.Core/obj/Debug/net7.0/ref/CleanArchitectureSample.Core.dll
