@@ -1,4 +1,5 @@
-﻿using Ardalis.Specification;
+﻿using System.Linq;
+using Ardalis.Specification;
 
 namespace CleanArchitectureSample.Core.ProjectAggregate.Specifications;
 

@@ -1,6 +1,7 @@
 ﻿using Ardalis.Result;
 using CleanArchitectureSample.Core.ProjectAggregate;
-
+using System.Collections.Generic;
+using System.Threading.Tasks;
 namespace CleanArchitectureSample.Core.Interfaces;
 
 public interface IToDoItemSearchService

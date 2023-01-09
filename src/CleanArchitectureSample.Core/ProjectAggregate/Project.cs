@@ -2,6 +2,8 @@
 using CleanArchitectureSample.Core.ProjectAggregate.Events;
 using CleanArchitectureSample.SharedKernel;
 using CleanArchitectureSample.SharedKernel.Interfaces;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace CleanArchitectureSample.Core.ProjectAggregate;
 

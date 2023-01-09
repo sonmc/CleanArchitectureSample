@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using Ardalis.Result;
 using CleanArchitectureSample.Core.ContributorAggregate;
 using CleanArchitectureSample.Core.ContributorAggregate.Events;

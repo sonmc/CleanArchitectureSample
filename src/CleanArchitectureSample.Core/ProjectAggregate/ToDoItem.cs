@@ -30,11 +30,6 @@ public class ToDoItem : EntityBase
     base.RegisterDomainEvent(contributorAddedToItem);
   }
 
-  public void RemoveContributor()
-  {
-    ContributorId = null;
-  }
-
   public override string ToString()
   {
     string status = IsDone ? "Done!" : "Not done.";
